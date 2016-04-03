@@ -1,4 +1,4 @@
-(defproject firebase-rest-clj "0.1.0-SNAPSHOT"
+(defproject mrmcc3/firebase-rest-clj "0.1.0-SNAPSHOT"
   :description "Use the Firebase REST API from clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
